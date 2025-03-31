@@ -148,7 +148,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👥 Contact
 
 - Project Link: [https://github.com/yourusername/BoardingHub](https://github.com/yourusername/BoardingHub)
-- Developer: [Your Name](mailto:malithavisada@gmail.com)
+- Developer: [Malitha](mailto:malithavisada@gmail.com)
 
 ## ✨ Acknowledgements
 
